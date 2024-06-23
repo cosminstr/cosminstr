@@ -5,10 +5,8 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://www.linkedin.com/in/cosmin-stercu-097b05128/" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/cosmin stercu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cosmin stercu" height="30" width="40" /></a>
+</p>
 ###
