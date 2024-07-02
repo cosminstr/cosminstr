@@ -18,7 +18,7 @@ I am a second year student pursuing a Bachelor's Degree in Computers and Informa
 <h4 align="left">💻 Programming Languages : C, C++, Python</h3>
 <h4 align="left">⏰ Frameworks and Libraries : Flask, Scikit-learn, Pandas, NumPy, PyTorch</h3>
 <h4 align="left">💾 Database : MongoDB (Beginner), MySQL (Beginner)</h3>
-<h4 align="left">🧰 Other tools : Linux, Postman, Visual Studio Code</h3>
+<h4 align="left">🧰 Other tools : Linux, Postman, Visual Studio Code, IntelliJ IDEA</h3>
 
 
 
