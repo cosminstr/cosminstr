@@ -4,7 +4,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXI2M2xyeDFjbm9hNWE2OXk5NDRjNDIxZ2k0cXY2aHNwZTUwOXhqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b9liBqdyytPaIU/giphy.gif" width="250"/>
 </div>
 
-I am a second year student pursuing a Bachelor's Degree in Computers and Information Technology. My main interests consist of, but are not limited to, Machine Learning, Data Science, Operating Systems and Gen AI. I have also dabbled with Web Development (Flask with MongoDB) and MERN Stack, Microcontrollers (Intel 8051 Chip), Microprocessors Emulation (x86 Architecture) and Digital Circuits Designing (Verilog HDL).
+I am a third year student pursuing a Bachelor's Degree in Computers and Information Technology. My main interests consist of, but are not limited to, Machine Learning, Data Science, Operating Systems and Gen AI. I have also dabbled with Web Development (Flask with MongoDB) and MERN Stack, Microcontrollers (Intel 8051 Chip), Microprocessors Emulation (x86 Architecture) and Digital Circuits Designing (Verilog HDL).
 
 ## <h3 align="left">🖇️ Connect with me</h3>
 <p align="center">
