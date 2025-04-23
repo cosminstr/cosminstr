@@ -4,7 +4,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXI2M2xyeDFjbm9hNWE2OXk5NDRjNDIxZ2k0cXY2aHNwZTUwOXhqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b9liBqdyytPaIU/giphy.gif" width="250"/>
 </div>
 
-I am a third year student pursuing a Bachelor's Degree in Computers and Information Technology. My main interests consist of, but are not limited to, Deep Learning, Data Science and Operating Systems. I have also experimented with Web Development (Flask with MongoDB) and Microcontrollers (Intel 8051 Chip, ESP-32, STM32), Microprocessors Emulation (x86 Architecture) and Digital Circuits Designing (Verilog HDL).
+My main interests consist of, but are not limited to, Deep Learning, Machine Learning and Embedded Systems. I have also experimented with Microcontrollers (Intel 8051 Chip, ESP-32, STM32), Microprocessors (x86 Architecture) and Digital Circuits Designing (Verilog HDL).
 
 ## <h3 align="left">🖇️ Connect with me</h3>
 <p align="center">
