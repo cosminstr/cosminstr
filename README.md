@@ -18,7 +18,7 @@ My main topics of interest consist of, but are not limited to, Deep Learning, Ma
 <h4 align="left">💻 Programming Languages : Python, C, C++</h3>
 <h4 align="left">⏰ Frameworks and Libraries : Scikit-learn, Pandas, NumPy, PyTorch, LangChain</h3>
 <h4 align="left">💾 Database : MongoDB (Beginner), MySQL (Beginner)</h3>
-<h4 align="left">🧰 Other tools : Vast.ai, Linux, Postman, Visual Studio Code, IntelliJ IDEA</h3>
+<h4 align="left">🧰 Other tools : Linux, Git/Github, Vast.ai, Postman, Visual Studio Code</h3>
 
 
 
